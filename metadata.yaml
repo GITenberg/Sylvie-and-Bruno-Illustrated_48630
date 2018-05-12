@@ -1,4 +1,5 @@
 _repo: Sylvie-and-Bruno-Illustrated_48630
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Furniss, Harry
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1925
     gutenberg_agent_id: '25492'
     url: http://www.gutenberg.org/2009/agents/25492
+covers:
+- cover_type: archival
+  image_path: 48630-h/images/bcover.jpg
 creator:
   author:
     agent_name: Carroll, Lewis
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7
     wikipedia: http://en.wikipedia.org/wiki/Lewis_Carroll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48630#Sylvie-and-Bruno-Illustrated
 gutenberg_issued: '2015-04-02'
 gutenberg_type: Text
 identifiers:
